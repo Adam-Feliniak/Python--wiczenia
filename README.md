@@ -1,2 +1,2 @@
-# Python-w-zadaniach-podstawy
+# Python-ćwiczenia
 Zadania z programowania w pythonie
