@@ -1,2 +1,2 @@
 # Python-ćwiczenia
-Zadania z programowania w pythonie
+Python programming exercises
