@@ -1,8 +1,7 @@
 def decorator(function):
     def another_function():
-        function()
-        function()
-        function()
+        print("Przed wywołaniem")
+        print("Po wywołaniu")
     return another_function()
 
 @decorator
