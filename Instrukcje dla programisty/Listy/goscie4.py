@@ -36,6 +36,7 @@ print(f"{removed.title()}, niestety nie możesz przyjść jednak.")
 print(f"{guests_list[0].title()} jednak jesteś zaproszony")
 print(f"{guests_list[1].title()} jednak jesteś zaproszony")
 
+print(f"Zaproszono {len(guests_list)} osób")
 del guests_list[1]
 del guests_list[0]
 
