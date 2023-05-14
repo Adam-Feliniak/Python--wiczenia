@@ -28,6 +28,8 @@ class Car:
 print(Car.how_many_cars_so_far)
 
 my_car = Car("Daewoo", "Lanos", "zielony")
+my_car.color = "czerwony"
+print(my_car.color)
 print(Car.how_many_cars_so_far)
 my_car.speed_up()
 print(my_car.velocity)
